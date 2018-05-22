@@ -1,0 +1,7 @@
+mod 'puppet/nginx'
+mod 'puppet/selinux'
+mod 'puppetlabs/stdlib'
+mod 'puppetlabs/concat'
+mod 'puppetlabs/mysql'
+mod 'Slashbunny-phpfpm'
+mod 'puppet/staging'
